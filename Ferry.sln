@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferry", "Ferry\Ferry.csproj", "{CDE50FD5-370D-4E83-B226-34CA560162C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferry.Data", "Ferry.Data\Ferry.Data.csproj", "{719764BB-1A91-40F5-AC85-32F9A2C2769B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CDE50FD5-370D-4E83-B226-34CA560162C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE50FD5-370D-4E83-B226-34CA560162C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE50FD5-370D-4E83-B226-34CA560162C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719764BB-1A91-40F5-AC85-32F9A2C2769B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719764BB-1A91-40F5-AC85-32F9A2C2769B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719764BB-1A91-40F5-AC85-32F9A2C2769B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719764BB-1A91-40F5-AC85-32F9A2C2769B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
